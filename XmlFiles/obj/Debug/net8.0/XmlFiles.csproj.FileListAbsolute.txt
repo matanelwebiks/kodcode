@@ -1,0 +1,14 @@
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\bin\Debug\net8.0\XmlFiles.exe
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\bin\Debug\net8.0\XmlFiles.deps.json
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\bin\Debug\net8.0\XmlFiles.runtimeconfig.json
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\bin\Debug\net8.0\XmlFiles.dll
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\bin\Debug\net8.0\XmlFiles.pdb
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\obj\Debug\net8.0\XmlFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\obj\Debug\net8.0\XmlFiles.AssemblyInfoInputs.cache
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\obj\Debug\net8.0\XmlFiles.AssemblyInfo.cs
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\obj\Debug\net8.0\XmlFiles.csproj.CoreCompileInputs.cache
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\obj\Debug\net8.0\XmlFiles.dll
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\obj\Debug\net8.0\refint\XmlFiles.dll
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\obj\Debug\net8.0\XmlFiles.pdb
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\obj\Debug\net8.0\XmlFiles.genruntimeconfig.cache
+C:\Users\matanel\Documents\webiks\Riposetory\XmlFiles\obj\Debug\net8.0\ref\XmlFiles.dll

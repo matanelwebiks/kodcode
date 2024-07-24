@@ -1,0 +1,11 @@
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\bin\Debug\Shabbat_Guests.exe.config
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\bin\Debug\Shabbat_Guests.exe
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\bin\Debug\Shabbat_Guests.pdb
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\obj\Debug\Shabbat_Guests.csproj.AssemblyReference.cache
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\obj\Debug\Shabbat_Guests.Form1.resources
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\obj\Debug\Shabbat_Guests.Form2.resources
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\obj\Debug\Shabbat_Guests.Properties.Resources.resources
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\obj\Debug\Shabbat_Guests.csproj.GenerateResource.cache
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\obj\Debug\Shabbat_Guests.csproj.CoreCompileInputs.cache
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\obj\Debug\Shabbat_Guests.exe
+C:\Users\matanel\Documents\webiks\dotnet\Shabbat_Guests\obj\Debug\Shabbat_Guests.pdb

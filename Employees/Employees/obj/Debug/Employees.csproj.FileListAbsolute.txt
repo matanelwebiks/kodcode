@@ -1,0 +1,30 @@
+C:\Users\Student\Documents\קורסים 24\רמת גן\מרצים\Employees\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\קורסים 24\רמת גן\מרצים\Employees\Employees\obj\Debug\Employees.frmEmployees.resources
+C:\Users\Student\Documents\קורסים 24\רמת גן\מרצים\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\Student\Documents\קורסים 24\רמת גן\מרצים\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+C:\Users\Student\Documents\קורסים 24\רמת גן\מרצים\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\קורסים 24\רמת גן\מרצים\Employees\Employees\bin\Debug\Employees.exe.config
+C:\Users\Student\Documents\קורסים 24\רמת גן\מרצים\Employees\Employees\bin\Debug\Employees.exe
+C:\Users\Student\Documents\קורסים 24\רמת גן\מרצים\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\Student\Documents\קורסים 24\רמת גן\מרצים\Employees\Employees\obj\Debug\Employees.exe
+C:\Users\Student\Documents\קורסים 24\רמת גן\מרצים\Employees\Employees\obj\Debug\Employees.pdb
+C:\Users\matanel\Documents\webiks\dotnet\Employees\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\matanel\Documents\webiks\dotnet\Employees\Employees\obj\Debug\Employees.frmEmployees.resources
+C:\Users\matanel\Documents\webiks\dotnet\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\matanel\Documents\webiks\dotnet\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+C:\Users\matanel\Documents\webiks\dotnet\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\matanel\Documents\webiks\dotnet\Employees\Employees\obj\Debug\Employees.exe
+C:\Users\matanel\Documents\webiks\dotnet\Employees\Employees\obj\Debug\Employees.pdb
+C:\Users\matanel\Documents\webiks\dotnet\Employees\Employees\bin\Debug\Employees.exe.config
+C:\Users\matanel\Documents\webiks\dotnet\Employees\Employees\bin\Debug\Employees.exe
+C:\Users\matanel\Documents\webiks\dotnet\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\matanel\Documents\webiks\Riposetory\Employees\Employees\bin\Debug\Employees.exe.config
+C:\Users\matanel\Documents\webiks\Riposetory\Employees\Employees\bin\Debug\Employees.exe
+C:\Users\matanel\Documents\webiks\Riposetory\Employees\Employees\bin\Debug\Employees.pdb
+C:\Users\matanel\Documents\webiks\Riposetory\Employees\Employees\obj\Debug\Employees.csproj.AssemblyReference.cache
+C:\Users\matanel\Documents\webiks\Riposetory\Employees\Employees\obj\Debug\Employees.frmEmployees.resources
+C:\Users\matanel\Documents\webiks\Riposetory\Employees\Employees\obj\Debug\Employees.Properties.Resources.resources
+C:\Users\matanel\Documents\webiks\Riposetory\Employees\Employees\obj\Debug\Employees.csproj.GenerateResource.cache
+C:\Users\matanel\Documents\webiks\Riposetory\Employees\Employees\obj\Debug\Employees.csproj.CoreCompileInputs.cache
+C:\Users\matanel\Documents\webiks\Riposetory\Employees\Employees\obj\Debug\Employees.exe
+C:\Users\matanel\Documents\webiks\Riposetory\Employees\Employees\obj\Debug\Employees.pdb

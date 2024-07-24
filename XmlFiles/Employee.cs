@@ -12,9 +12,9 @@ namespace XmlFiles
     {
         private string _Path = "/Employees/Employee";
         public XmlDocument XmlDocument { get; set; }
-        public Employee(XmlDocument xmlDocument)
+        public Employee(XmlDocument _xmlDocument)
         {
-            XmlDocument = xmlDocument;
+            XmlDocument = _xmlDocument;
         }
 
         public void GetAllEmployees(XmlNodeList xmlNodeList = null)
